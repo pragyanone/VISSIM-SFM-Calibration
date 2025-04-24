@@ -1,5 +1,7 @@
 # VISSIM-SFM-Calibration
-Calibration of VISSIM Social Force Model Parameters
+Calibration of VISSIM Social Force Model Parameters:
+
+Tau, ASocIso, BSocIso, Lambda, ASocMean, BSocMean, VD
 
 
 - Speed as Measure of Performance
