@@ -7,4 +7,4 @@ Tau, ASocIso, BSocIso, Lambda, ASocMean, BSocMean, VD
 - Speed as Measure of Performance
 - COM API for automation
 - [PyGAD](https://pygad.readthedocs.io/) for Genetic Algorithm
-- Based on [navs-svan/VISSIM-Pedestrian-Calibration](github/navs-svan/VISSIM-Pedestrian-Calibration)
+- Based on [navs-svan/VISSIM-Pedestrian-Calibration](https://github.com/navs-svan/VISSIM-Pedestrian-Calibration)
